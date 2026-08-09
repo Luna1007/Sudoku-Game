@@ -22,10 +22,10 @@ A Sudoku puzzle game built with **Swift** and **Xcode**, featuring a clean and i
 ## 📱 Screenshots
 
 ### Main Menu
-![Main Menu](Screenshots/photo_2026-04-29_18-56-53(2).jpg)
+![Main Menu](Screenshots/photo_2026-04-29_18-56-51.jpg)
 
 ### Game Screen
-![Game Screen](Screenshots/photo_2026-04-29_18-56-54(2).jpg)
+![Game Screen](Screenshots/photo_2026-04-29_18-56-52.jpg)
 
 ### Settings
 ![Settings](Screenshots/photo_2026-04-29_18-56-54.jpg)
