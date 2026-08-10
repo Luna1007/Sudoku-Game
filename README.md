@@ -22,19 +22,19 @@ A Sudoku puzzle game built with **Swift** and **Xcode**, featuring a clean and i
 ## 📱 Screenshots
 
 ### Main Menu
-![Main Menu](Screenshots/photo_2026-04-29_18-56-51.jpg)
+![Main Menu](Screenshots/MainMenu.jpg)
 
 ### Game Screen
-![Game Screen](Screenshots/photo_2026-04-29_18-56-52.jpg)
+![Game Screen](Screenshots/GameView.jpg)
 
 ### Settings
-![Settings](Screenshots/photo_2026-04-29_18-56-54.jpg)
+![Settings](Screenshots/Settings.jpg)
 
 ### Win Screen
-![Win Screen](Screenshots/photo_2026-04-29_18-56-55.jpg)
+![Win Screen](Screenshots/WinView.jpg)
 
 ### App Icon
-![App Icon](Screenshots/photo_2026-04-29_18-56-53.jpg)
+![App Icon](Screenshots/AppIcon.jpg)
 
 ## 🎥 Demo
 
